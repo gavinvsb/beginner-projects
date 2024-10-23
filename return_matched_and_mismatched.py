@@ -1,5 +1,6 @@
-#Given two sentences, return an array that has the words that appear in one sentence and not
-#the other and an array with the words in common. 
+"""
+Given two sentences, return an array that has the words that appear in one sentence and not the other and an array with the words in common. 
+"""
 
 sentence1 = 'We are really pleased to meet you in our city'
 sentence2 = 'The city was hit by a really heavy storm'
