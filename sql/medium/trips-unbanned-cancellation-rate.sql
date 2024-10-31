@@ -56,5 +56,4 @@ JOIN
     AND UD.banned = 'No' 
     AND UD.role = 'driver' 
 GROUP BY 
-    T.date 
-;
+    T.date;
